@@ -23,6 +23,7 @@ exe = EXE(
     a.datas,
     [],
     name='btc_taskbar_monitor',
+    icon='logo.ico',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,

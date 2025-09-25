@@ -2,6 +2,8 @@
 
 A modern, lightweight cryptocurrency price monitor that displays real-time prices directly on your desktop taskbar. Built with Python and Tkinter, featuring WebSocket connections to Binance for live price updates.
 
+![Application Screenshot](ss.png)
+
 ## ✨ Features
 
 - **Multi-Currency Support**: Monitor up to 3 cryptocurrencies simultaneously
